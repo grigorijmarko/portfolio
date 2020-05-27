@@ -2,7 +2,7 @@
 
 |  |  |
 |---|---|
-|![layalzoo.com_ 1.png](images/layalzoo.com_ 1.png)|![layalzoo.com_2.png](images/layalzoo.com_2.png)|
+|![layalzoo.com_1.png](images/layalzoo.com_1.png)|![layalzoo.com_2.png](images/layalzoo.com_2.png)|
 |![layalzoo.com_3.png](images/layalzoo.com_3.png)|![layalzoo.com_4.png](images/layalzoo.com_4.png)|
 
 |![axioncore.com1.png](images/axioncore.com1.png)|![axioncore.com2.png](images/axioncore.com2.png)|
